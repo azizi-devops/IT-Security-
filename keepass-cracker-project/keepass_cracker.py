@@ -1,8 +1,7 @@
 import struct
-<<<<<<< HEAD
 import sys
 import time
-from itertools import product
+
 from Crypto.Cipher import AES
 from Crypto.Hash import SHA256
 
