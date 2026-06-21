@@ -1,7 +1,6 @@
 import struct
 import sys
 import time
-
 from Crypto.Cipher import AES
 from Crypto.Hash import SHA256
 
